@@ -3,7 +3,7 @@
 Netflix Account Security Tool v2.0 — CLI utility for security researchers to audit credential exposure using authorized API endpoints. Features multi-threading, proxy rotation, colored terminal UI, and structured result logging. Python 3.
 <h1 align="center">
   <br>
-  <a href="http://www.darkxcode.site"><img src="https://raw.githubusercontent.com/zlaxtert-code/EMAIL-BOUNCE-CHECKERV4.5.1/master/images.png" alt="image" width="200"></a>
+  <a href="http://www.darkxcode.site"><img src="https://raw.githubusercontent.com/zlaxtert-code/NETFLIX-CHECKER-CLIV2.0/master/icon.png" alt="image" width="200"></a>
   <br>
   NETFLIX CHECKER // NETFLIX VALIDATION
   <br>
